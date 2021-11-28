@@ -5,5 +5,13 @@ public class HelloWorld {
             System.out.println("Hello World!");
         }
 
+        //Dodatkowy komentarz do cwiczenia
+
+        System.out.println();
+
+        String tekst = "Laboratorium 2 - dodatkowa zmiana w projekcie.";
+
+        System.out.println("Wyswietl: " + tekst);
+
     }
 }
